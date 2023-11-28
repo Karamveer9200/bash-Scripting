@@ -1,0 +1,3 @@
+when permission is denied:
+
+chmod u+x <filename>
